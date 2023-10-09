@@ -57,6 +57,16 @@ svg {
 
 /* HEADER */
 
+.header__image{
+    /* opacity: 0; */
+    transform: translate(200px);
+}
+.header__button{
+    transform: translate(-200px);
+    /* opacity: 0; */
+}
+
+
 .container {
     max-width: 1920px;
     width: 100%;
